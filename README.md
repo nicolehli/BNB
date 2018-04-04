@@ -1,7 +1,6 @@
-# Incorporating Cognitive Services into a web application #
----
+# BNB
 
-## Overview ##
+### Overview ###
 
 This is an lab activity done with the Azure University Tour to build a AI-powered BNB rental web app.
 
