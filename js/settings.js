@@ -1,5 +1,5 @@
 var bingMapsKey = 'Ah_C8OJJu8wnNX50rGHf8_OYKonuhZ-CfLQ-kXS-4tI-QsTN9pkLPPfgZgKigwa8';
-var cogServicesKey = '<YOUR KEY>';
+var cogServicesKey = 'b50948c852734b01b01a4c5024ce41e2';
 
 
 
